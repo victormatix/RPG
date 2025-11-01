@@ -15,7 +15,8 @@ Y el diagrama de flujo podeis verlo <a href="https://viewer.diagrams.net/?tags=%
 <a href="https://github.com/JeanVerde22">	» @JeanVerde22</a><br> 
  <a href="https://github.com/martapvalls">	» @martapvalls</a><br>
   <a href="https://github.com/MaxiVina">	» @MaxiVina</a><br>
-  <a href="https://github.com/vsbcn"> 	» @vsbcn - Vitalik Serhyeyev</a><br>  
+  <a href="https://github.com/vsbcn"> 	» @victormatix</a><br>  
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
